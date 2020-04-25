@@ -17,3 +17,11 @@ _______________________
 
 ________________________
 # react native
+
+
+_______________________
+# extra
+
+logging
+https://www.youtube.com/watch?v=-ARI4Cz-awo
+https://www.youtube.com/watch?v=jxmzY9soFXg
